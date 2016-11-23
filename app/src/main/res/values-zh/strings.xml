@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AetcHome</string>
+
+    <string name="bottom_tab_workflow">工单</string>
+    <string name="bottom_tab_serve">服务</string>
+    <string name="bottom_tab_health">健康</string>
+    <string name="bottom_tab_me">我</string>
+
+    <string name="update_app_model_prepare">准备下载</string>
+    <string name="update_app_model_progress">正在下载 %1$d%2$s</string>
+    <string name="update_app_model_success">下载成功(点击安装)</string>
+    <string name="update_app_model_error">下载失败(点击浏览器下载)</string>
+
+    //customactivityoncrash
+    <string name="customactivityoncrash_error_activity_error_occurred_explanation">发生了意想不到的错误.\n抱歉带来的不便.</string>
+    <string name="customactivityoncrash_error_activity_unknown_exception">未知异常</string>
+    <string name="customactivityoncrash_error_activity_restart_app">重启应用</string>
+    <string name="customactivityoncrash_error_activity_close_app">关闭应用</string>
+    <string name="customactivityoncrash_error_activity_error_details">错误详情</string>
+    <string name="customactivityoncrash_error_activity_error_details_title">错误详情</string>
+    <string name="customactivityoncrash_error_activity_error_details_close">关闭</string>
+    <string name="customactivityoncrash_error_activity_error_details_copy">复制到剪贴板</string>
+    <string name="customactivityoncrash_error_activity_error_details_copied">复制到剪贴板</string>
+    <string name="customactivityoncrash_error_activity_error_details_clipboard_label">错误信息</string>
+
+</resources>

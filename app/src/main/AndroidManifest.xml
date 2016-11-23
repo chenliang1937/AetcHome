@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.com.aetc.aetchome" >
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/> //开机广播
+    <uses-permission android:name="android.permission.VIBRATE"/> //振动
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/> //网络定位
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/> //GPS定位
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES"/> //结束后台进程
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+
+    <application
+        android:name=".common.MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name=".ui.activity.SplashActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.activity.MainActivity"></activity>
+        <activity android:name=".ui.activity.UserInfoActivity"
+            android:theme="@style/AppTheme.Translucent.SwipeBack">
+        </activity>
+
+        <service android:name=".service.UpdateService"></service>
+        <service android:name="com.squareup.leakcanary.internal.HeapAnalyzerService"
+            android:enabled="false"
+            android:process=":leakcanary"/>
+        <service android:name="com.squareup.leakcanary.DisplayLeakService"
+            android:enabled="false"/>
+
+        <receiver android:name=".broadcast.ConnectionBroadcast"></receiver>
+    </application>
+
+</manifest>

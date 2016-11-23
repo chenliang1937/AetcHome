@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AetcHome</string>
+
+    <string name="bottom_tab_workflow">Workflow</string>
+    <string name="bottom_tab_serve">Serve</string>
+    <string name="bottom_tab_health">Health</string>
+    <string name="bottom_tab_me">me</string>
+
+    <string name="update_app_model_prepare">preparing to download</string>
+    <string name="update_app_model_progress">downloading %1$d%2$s</string>
+    <string name="update_app_model_success">download success(click install)</string>
+    <string name="update_app_model_error">download fail(click to use the browser to download)</string>
+
+    //customactivityoncrash
+    <string name="customactivityoncrash_error_activity_error_occurred_explanation">An unexpected error occurred.\nSorry for the inconvenience.</string>
+    <string name="customactivityoncrash_error_activity_unknown_exception">Unknown exception</string>
+    <string name="customactivityoncrash_error_activity_restart_app">Restart app</string>
+    <string name="customactivityoncrash_error_activity_close_app">Close app</string>
+    <string name="customactivityoncrash_error_activity_error_details">Error details</string>
+    <string name="customactivityoncrash_error_activity_error_details_title">Error details</string>
+    <string name="customactivityoncrash_error_activity_error_details_close">Close</string>
+    <string name="customactivityoncrash_error_activity_error_details_copy">Copy to clipboard</string>
+    <string name="customactivityoncrash_error_activity_error_details_copied">Copied to clipboard</string>
+    <string name="customactivityoncrash_error_activity_error_details_clipboard_label">Error information</string>
+
+    <string name="str_empty">暂无数据</string>
+    <string name="str_error">网络错误,点击重试</string>
+    <string name="str_more">更多加载中……</string>
+    <string name="str_nomore">(￣ω￣) 没有更多了</string>
+
+    <string name="action_search">Search</string>
+</resources>

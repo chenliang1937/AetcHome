@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3498DB</color>
+    <color name="colorPrimaryDark">#2980B9</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="color_drak">#161519</color>
+    <color name="color_light">#878688</color>
+    <color name="main_bottom_tab_textcolor_normal">#666666</color>
+    <color name="main_bottom_tab_textcolor_selected">#3498DB</color>
+    <!-- 灰色2：分割线 -->
+    <color name="divider_line">#DDDDDD</color>
+    <!-- ripple color -->
+    <color name="ripple_color">#b0C0C0C0</color>
+    <!--清除缓存-->
+    <color name="cache">#ff5252</color>
+
+</resources>

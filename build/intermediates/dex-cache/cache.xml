@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\com.bigkoo\pickerview\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c698b12f34cfcc959ed7088fb89d9b146498e59f">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\com.bigkoo-pickerview-1.0.3_948548e91a6def2053c934f6767b726c7ffb5e3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\cat.ereza\customactivityoncrash\1.5.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="731adea82d8271cde9385de2dc01e3c8ed231570">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\cat.ereza-customactivityoncrash-1.5.0_b15e37af07fe0e0d6923c70476700ff2c6fc505f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chenl\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta2\880d9e0997b2d1bfc98e0d121ced33ee5d04aac4\retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0-beta2_7cbd72d8da9f1950e09e0ead14a064e94398e632.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.7\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1478a113f04bf0b679037b4f6bd88bd1837b96a3">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\me.zhanghai.android.materialprogressbar-library-1.1.7_1dd02447d511b5fa2c6fa11db8869084d4f23bd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\com.baoyz.actionsheet\library\1.1.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7db0250bd2734501c74fc4756e9052498aa61472">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\com.baoyz.actionsheet-library-1.1.4_8e5740814a884375c139d28545fa06db33da1e61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\com.jude\easyrecyclerview\4.0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f0d917dd96c0a4639b423a6cd85270145d8536b">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\com.jude-easyrecyclerview-4.0.5_1e75d1e0bc8b47fd487a8dad211ea9a2079111b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chenl\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\gson-2.3.1_65ad6eba8af1cbb984115dd410b1d9df0d58cce8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\jp.wasabeef\glide-transformations\2.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df451c6f391e3e32022fc964ed87bd57a5869128">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\jp.wasabeef-glide-transformations-2.0.1_7f7e395d17431ad82164f0946092d28ed2835d89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_abc935659dd0b7fe8c279a6cd47499aa4b48ffbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Softwares\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_89d23a5fe90ea687fc11f3a6fc31022c42b85d8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\com.github.pwittchen\prefser\2.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e8249cfc2368f2a7952ba2cc083616c20e01cff5">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\com.github.pwittchen-prefser-2.0.1_fa4155ff5233f2a2b1728b917c656e89895c9d6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\com.jude\swipebackhelper\3.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b90696f5fa17ebb1e1ad9d6d167cbed2cbeeebd">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\com.jude-swipebackhelper-3.1.1_5fddb76f54710cdbd17029f6476221bd8a5c2e4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_ab1fb3cb3528a1e6a8c1eecf8c2c800769fb15a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\com.balysv\material-ripple\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c733e9d1b065d940a08f2fca0ff920dfc08d94cc">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\com.balysv-material-ripple-1.0.2_2a9e7806ffac462761b8afe8840c500332c121cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_413d07dfb180b682f7e1f7672e4633c99ec03290.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.0.1_ec8250e0ebee1549e6e7fa87b9007f8388bd9f9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_06d4491cf79fab5a547b503d8ca9f05c10958917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chenl\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\okio-1.6.0_4b11bf7911abf72108267b874a9f42b73c9e48c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chenl\.gradle\caches\modules-2\files-2.1\com.squareup.haha\haha\2.0.2\fd65b84d12d6adc77ec0e4fcaca623fc391d8679\haha-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fd65b84d12d6adc77ec0e4fcaca623fc391d8679">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\haha-2.0.2_27da7094572cddae525a2b9a8da066640893d11f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_fdc99e78c516ba211ed7a431368c5558fac0a06d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chenl\.gradle\caches\modules-2\files-2.1\de.greenrobot\greendao\2.0.0\5f49dd477c1621dfaf0f7fe5d755fe4f07526af2\greendao-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f49dd477c1621dfaf0f7fe5d755fe4f07526af2">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\greendao-2.0.0_052513d76d83fa00a248061b2c54bf4df196a589.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_69189ede11c79664f19a2b3973773eaebabe5a97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_2678c7439fba64def25b1e73d01750d0e0584320.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chenl\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\adapter-rxjava\2.0.0-beta2\3a233746381a03dbb0f5f3ed10b11c3e72dba499\adapter-rxjava-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a233746381a03dbb0f5f3ed10b11c3e72dba499">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.0.0-beta2_7158d5941067908c2132ffc35c98cfbc44ebdd1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chenl\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\converter-gson\2.0.0-beta2\392c3d09e0f5e7087544093cc0cb23bb9c7af5fa\converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.0-beta2_d104a59613253cf04271caedc87723fc90c74b66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chenl\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.0.1\345b89f45d02d8b09400b472fab7b7e38f4ede1f\butterknife-annotations-8.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.0.1_a2dfd69fca1765673bc389f73bb0f2ecd25dd274.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_3975263b365c50fdd5c5cc63bb68e0c35541830e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_4c270e78553dd68cb80b0535cb6a32b3dde83b87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_3d48eb469a7decc15b19cb99302557b25a5c70f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\core\0.8.5.9\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04d4337de6ccd7e57aec621f41ee747976fca7d8">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\com.afollestad.material-dialogs-core-0.8.5.9_67a93a97ab7fd3940cff3bb3201471a864d6bdeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\com.orhanobut\logger\1.15\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a156b99fc7cc034308f942906b09d32754a4470">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\com.orhanobut-logger-1.15_31f08994fc5f97194ad9b49e168f3916e239c5f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chenl\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_4e5504f1ad037973afb4326166222ea763b6095a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_580f5e56831eb948cb0055ee4fbfb905e7fb6f3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.0.1_e6f80492bf09a121f0a659fc026b849e8be983f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chenl\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.0.16\bdc5ca010675cd9385bdd3a28cf53ee88164424f\rxjava-1.0.16.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bdc5ca010675cd9385bdd3a28cf53ee88164424f">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\rxjava-1.0.16_621992e1a1219a2b7abe8b4fdc6293a377d8c300.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\top.zibin\Luban\1.0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="019210e0d4aa933c973fbbaf02e5bdab4d5ab37d">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\top.zibin-Luban-1.0.5_f1d4cd4811f180d6d7b2ee26f2a7c9a68c13e501.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_36164afbd969ac88dc5013156d4be27c15d9be4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\me.itangqi.waveloadingview\library\0.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="91d0098b8a88a7929727e89ec2747c09f943c786">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\me.itangqi.waveloadingview-library-0.2.0_c54bb36b469dfe6971f040df4ea5cc4d951a8e69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.4-beta2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c8472f8e10502af60d0f63ea11eed68bdf690c2">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\com.squareup.leakcanary-leakcanary-android-1.4-beta2_83e521d83c4a148ec884cee92a59a08c340153d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chenl\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_12fe8b6900236b030aa6fcab4bd6fc94f82e2bf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\me.everything\overscroll-decor-android\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="718e1f03c17b237f6dc2515a91170bcf2f4e6bfb">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\me.everything-overscroll-decor-android-1.0.2_2b09919c4ecdbb3129bd8c2cf9c80f4a5365efe0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c6dbe4fcd6c2bb080e829ab70f72d34664af5be3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_f573feda7344bb17ce7c268fb5d1a12d2ca9ebc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chenl\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-analyzer\1.4-beta2\449777cd466ac0a16f7e8d0dc508e70e2cdd13a9\leakcanary-analyzer-1.4-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="449777cd466ac0a16f7e8d0dc508e70e2cdd13a9">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\leakcanary-analyzer-1.4-beta2_e9d34df21729d42685640cda9e8bd0e20f47a37a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ad7e5c9e22b023202d2bfbd09d2e3903b16dd886.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_5ed12393ee9a92cc8227f95118fd0056937ff3f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chenl\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.4-beta2\6a920fb0d14e5e3b36e37cf33b1eeef2bcce4c92\leakcanary-watcher-1.4-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a920fb0d14e5e3b36e37cf33b1eeef2bcce4c92">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\leakcanary-watcher-1.4-beta2_e1ba66222d7db256961347e30181709281f26471.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chenl\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\glide-3.7.0_3c1a2155a1be38ed832e91db184b1160d6370cf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\chenl\.gradle\caches\modules-2\files-2.1\frankiesardo\icepick\3.2.0\5ab94f3bba3f9315532eb1ca5547d120c4f71dae\icepick-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ab94f3bba3f9315532eb1ca5547d120c4f71dae">
+        <dex dex="D:\Workspaces\AndroidStudioWorkspace\AetcHome\app\build\intermediates\pre-dexed\debug\icepick-3.2.0_55442efcbbda47b5d26a851b67d3db460efcd670.jar" />
+    </item>
+
+</items>

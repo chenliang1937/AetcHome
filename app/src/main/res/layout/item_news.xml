@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.balysv.materialripple.MaterialRippleLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/news_item_ripplelayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:mrl_rippleBackground="@color/white"
+    app:mrl_rippleColor="@color/ripple_color">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/dp_16"
+        android:paddingRight="@dimen/dp_16"
+        android:paddingTop="@dimen/dp_8"
+        android:paddingBottom="@dimen/dp_8">
+
+        <ImageView
+            android:id="@+id/news_item_imageview"
+            android:layout_width="@dimen/dp_96"
+            android:layout_height="@dimen/dp_68"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:scaleType="fitXY"/>
+
+        <TextView
+            android:id="@+id/news_item_textview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/sp_16"
+            android:textColor="@color/color_drak"
+            android:layout_marginLeft="@dimen/dp_12"
+            android:layout_toRightOf="@+id/news_item_imageview"
+            android:layout_centerVertical="true"/>
+
+    </RelativeLayout>
+
+</com.balysv.materialripple.MaterialRippleLayout>
