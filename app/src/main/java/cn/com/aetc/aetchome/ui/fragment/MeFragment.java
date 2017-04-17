@@ -1,5 +1,6 @@
 package cn.com.aetc.aetchome.ui.fragment;
 
+import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -139,6 +140,11 @@ public class MeFragment extends BaseFragment {
     @OnClick(R.id.me_userinfo)
     public void userinfoClick(){
         MyUtils.startActivity(getActivity(), UserInfoActivity.class);
+    }
+
+    @OnClick(R.id.me_layout2)
+    void test(){
+
     }
 
     //清除缓存
